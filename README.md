@@ -1,20 +1,17 @@
-### Hi there 👋
-
 <!--
 **prajwalpatankar/prajwalpatankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hey there ! I'm Prajwal 👋🏾   
 
- 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/prajwal-patankar-5652a61a2/)
+![GitHub followers](https://img.shields.io/github/followers/prajwalpatankar?label=Follow&style=social)
+![](https://komarev.com/ghpvc/?username=your-github-prajwalpatankar&color=blueviolet)
+
+
+#### 🌱 I’m currently pursuing my BE (IT) Degree from Pune Institue of Computer Technology 
+
+#### 🌐 Visit my [Personal Blog](https://prajwalpatankar.ml/)
+ 
 
 <!--![Prajwal's github stats](https://github-readme-stats.vercel.app/api?username=prajwalpatankar&show_icons=true&theme=cobalt&count_private=true)-->
 <!--![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalpatankar&theme=cobalt&langs_count=8&layout=compact)-->
@@ -30,6 +27,9 @@ Here are some ideas to get you started:
 ### My Skill-Set
 <a href="https://github.com/prajwalpatankar">
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+<a href="https://github.com/prajwalpatankar">
+<img src="https://img.shields.io/badge/c%20-%23F05033.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 </a>
 <a href="https://github.com/prajwalpatankar">
 <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
@@ -77,6 +77,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
 </a>
 
+
+#### 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/prajwal-patankar-5652a61a2/)
 #### Reach out to me [here!](mailto:patankarprajwal@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) My Inbox is always open to any opportunities, advices or suggestions
 
 
