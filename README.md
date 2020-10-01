@@ -19,7 +19,7 @@
 <a href="https://github.com/prajwalpatankar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalpatankar&theme=cobalt&langs_count=8&layout=compact" />
 </a>
-<a href="https://github.com/prajwalpatankar">
+    <a href="https://github.com/prajwalpatankar">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwalpatankar&show_icons=true&theme=cobalt&count_private=true" />
 </a>
 
