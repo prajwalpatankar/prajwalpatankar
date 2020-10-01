@@ -12,7 +12,7 @@
 
 #### 🌐 Visit my [Personal Blog](https://prajwalpatankar.ml/)
  
-
+<img align = "left" src="https://raw.githubusercontent.com/prajwalpatankar/prajwalpatankar/master/gif2.gif"  width="200" height="185" alt="Hello!">	
 <!--![Prajwal's github stats](https://github-readme-stats.vercel.app/api?username=prajwalpatankar&show_icons=true&theme=cobalt&count_private=true)-->
 <!--![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalpatankar&theme=cobalt&langs_count=8&layout=compact)-->
 
@@ -59,7 +59,7 @@
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 </a>
 <a href="https://github.com/prajwalpatankar">
-<img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src ="https://img.shields.io/badge/sqlite-%3121011.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 </a>
 <a href="https://github.com/prajwalpatankar">
 <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
