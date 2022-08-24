@@ -10,7 +10,7 @@
 
 #### 🌱 I’m currently pursuing my BE (IT) Degree from Pune Institue of Computer Technology. 
 
-#### 🌐 Visit my [Personal Blog](https://prajwalpatankar.ml/)
+#### 🌐 Visit my [Personal Blog](https://prajwalpatankar.me/)
  
 <!--<img align = "left" src="https://raw.githubusercontent.com/prajwalpatankar/prajwalpatankar/master/gif1.gif"  width="200" height="185" alt="Hello!">	-->
 <!--![Prajwal's github stats](https://github-readme-stats.vercel.app/api?username=prajwalpatankar&show_icons=true&theme=cobalt&count_private=true)-->
