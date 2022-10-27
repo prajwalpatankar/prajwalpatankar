@@ -8,7 +8,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-prajwalpatankar&color=blueviolet)
 
 
-#### 🌱 I’m currently pursuing my BE (IT) Degree from Pune Institue of Computer Technology. 
+#### 🌱 I’m currently pursuing my Masters of Science in Computer Science at the University of Southern California
 
 #### 🌐 Visit my [Personal Blog](https://prajwalpatankar.me/)
  
