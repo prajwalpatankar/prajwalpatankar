@@ -80,6 +80,6 @@
 
 
 #### 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/prajwal-patankar-5652a61a2/)
-#### Reach out to me [here!](mailto:patankarprajwal@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) My Inbox is always open to any opportunities, advices or suggestions
+#### Reach out to me [here!](mailto:patankarprajwal@gmail.com) My Inbox is always open to any opportunities, advices or suggestions
 
 
