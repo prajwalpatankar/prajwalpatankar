@@ -8,7 +8,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-prajwalpatankar&color=blueviolet)
 
 
-#### 🌱 I’m currently pursuing my Master of Science in Computer Science at the University of Southern California
+#### 🌱 I’m currently a Software Engineer II at Martqeta, Inc.
 
 #### 🌐 Visit my [Personal Blog](https://prajwalpatankar.me/)
  
