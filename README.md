@@ -10,6 +10,8 @@
 
 #### 🌱 I’m currently a Software Engineer II at Martqeta, Inc.
 
+#### 🌱 I talk about full-stack dev and infrastructure.
+
 #### 🌐 Visit my [Personal Blog](https://prajwalpatankar.me/)
  
 <!--<img align = "left" src="https://raw.githubusercontent.com/prajwalpatankar/prajwalpatankar/master/gif1.gif"  width="200" height="185" alt="Hello!">	-->
